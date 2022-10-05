@@ -1,2 +1,3 @@
-# wsl-workspace
- Common configuration and installations for WSL Workspace
+# WSL Workspace
+
+Common configuration and installations for WSL Workspace
